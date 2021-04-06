@@ -1,10 +1,37 @@
-### - 👋 Hi, My name's Flavio, I'm from São Luis, MA, Brazil.
-- 👀 I’m interested in Web and Mobile development.
-- 🌱 I’m currently learning ReactJS at @Rocketseat. I have experince with Html, Css, JavaScript, Git and Linux.
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
+<h1 align="center">Flavio Santos</h1>
 
-<!---
-flvSantos15/flvSantos15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h2 align="center">Front End Developer</h2>
+
+
+<p align="center">- 🌱 I’m currently learning ReactJS at @Rocketseat.</p>
+
+
+### 🛠 Tecnologias:
+
+- [React]
+- [TypeScript]
+- [NextJS]
+- [Linux]
+- [JavaScript]
+- [Html]
+- [Css]
+- [Sass]
+- [Git]
+
+
+### Autor
+---
+
+<a href="https://github.com/flvSantos15">
+ <br />
+ <sub><b>Flavio Santos</b></sub></a> <a href="https://github.com/flvSantos15" title="Flavio Santos">🚀</a>
+
+Feito com ❤️ por Flavio Santos 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Flavio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flvsantos15/)](https://www.linkedin.com/in/tgmarinho/)
+
+
+<h4 align="center"> 
+	🚧 🚀 Perfil em construção...  🚧
+</h4>
