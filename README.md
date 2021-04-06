@@ -1,4 +1,4 @@
-- 👋 Hi, My name's Flavio, I'm from São Luis, MA, Brazil.
+### - 👋 Hi, My name's Flavio, I'm from São Luis, MA, Brazil.
 - 👀 I’m interested in Web and Mobile development.
 - 🌱 I’m currently learning ReactJS at @Rocketseat. I have experince with Html, Css, JavaScript, Git and Linux.
 - 💞️ I’m looking to collaborate on Web Development
