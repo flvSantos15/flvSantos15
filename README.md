@@ -4,7 +4,7 @@
 <h2 align="center">Front End Developer</h2>
 
 
-<p align="center">- 🌱 I’m currently learning ReactJS at @Rocketseat.</p>
+<h3 align="center">- 🌱 I’m currently learning ReactJS at @Rocketseat.</h3>
 
 
 ### 🛠 Tecnologias:
