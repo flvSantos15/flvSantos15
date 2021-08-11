@@ -19,6 +19,13 @@
 - [Sass]
 - [Git]
 
+### Soft Skills:
+- [Autodidata]
+- [Compromentido]
+- [Focado]
+- [Trabalho em Equipe]
+- [Inglês Avançado]
+
 
 ### Autor
 ---
