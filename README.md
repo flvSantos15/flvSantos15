@@ -39,7 +39,7 @@
 </div>
 	
 <div style="display: flex;">
-	<li>Autoditada</li> <li>Focado</li> <li>Inglê Avançado</li> <li>CorelDraw</li> <li>Curioso</li>
+	<li>Autoditada</li> <li>Focado</li> <li>Inglês Avançado</li> <li>CorelDraw</li> <li>Curioso</li> <li>Pro Ativo</li>
 </div>
   
   ##
