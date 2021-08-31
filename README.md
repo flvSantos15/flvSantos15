@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Flávio Santos
+## Hiii! I'm Flávio Santos
 
 
 <h2>Front End Developer</h2>
