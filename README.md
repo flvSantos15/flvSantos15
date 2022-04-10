@@ -1,8 +1,10 @@
+<div align="center">
+	<img src="Passaporte-react-js.png" alt="flvSantos" />
+</div>
+
 ## Hiii! I'm Flávio Santos
 
-
 <h2>Front End Developer</h2>
-
 
 <h3>I’m currently working at Triplano using reactjs, nextjs, typescript, react query, chakra-ui.</h3>
 
@@ -12,7 +14,6 @@
 </h3>
 
 <br/>
-
 
 ### 🛠 Tecnologias:
 
