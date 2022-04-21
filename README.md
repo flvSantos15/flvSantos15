@@ -6,7 +6,7 @@
 
 <h2>Front End Developer</h2>
 
-<h3>I’m currently working at Triplano using reactjs, nextjs, typescript, nodejs, adonisjs react query, chakra-ui.</h3>
+<h3>I’m currently working at Triplano using reactjs, nextjs, typescript, nodejs, adonisjs, react query, chakra-ui.</h3>
 
 <h3>
 	I'm specializing in nextjs, reactjs, react query, typescript, chakra-ui, styled-components,
