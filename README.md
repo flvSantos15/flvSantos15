@@ -1,7 +1,7 @@
 ## Hiii! I'm Flávio <img align="top" src="https://user-images.githubusercontent.com/49988118/149844758-2e69df39-cc50-48d6-8b69-4506a540a796.gif" width="27" />
 
 
-<h3 align="justify">I'm Front End Developer 👨‍💻 based in Brazil , currently working at Triplano Games using ReactJS, NextJS, And Typescript.</h3>
+<h3 align="justify">I'm Front End Developer 👨‍💻 based in Brazil , currently working at Xgrow Learning Experience using ReactJS, NextJS, And Typescript.</h3>
 
 <br/>
 	
