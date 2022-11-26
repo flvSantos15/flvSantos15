@@ -6,7 +6,7 @@
 <br/>
 	
 <h3 align="justify">
-	I like to study and develop myself in technical and non-technical skills. And I have been developing since 2019, in 2022 I have completed the Rocketseat's Bootcamp, Ignite, with focus in ReactJS. I have intention to work in the international market remotly in the future.
+	I like to study and develop myself in technical and non-technical skills. And I have been developing since 2020, in 2022 I have completed the Rocketseat's Bootcamp, Ignite, with focus in ReactJS. I have intention to work in the international market remotly in the future.
 </h3>
 
 
