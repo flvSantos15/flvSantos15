@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/react--query-ff4154?style=for-the-badge&logo=react-query&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Hygraph-C21325?style=for-the-badge&logo=Hygraph&logoColor=white"/>
-	<img src="https://img.shields.io/badge/tailwindcss-C21325?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 </div>
 
 ### 🛠 Tecnologies that I have knnowledge:
@@ -35,8 +35,8 @@
 	<img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-784DA5?style=for-the-badge&logo=Linux&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GraphQL-C21325?style=for-the-badge&logo=GraphQL&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=Jest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 	
 </div>
 
