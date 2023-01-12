@@ -27,6 +27,7 @@
 	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Hygraph-C21325?style=for-the-badge&logo=Hygraph&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+	<img src="https://img.shields.io/badge/cypress-1f2937?style=for-the-badge&logo=Cypress&logoColor=white"/>
 </div>
 
 ### 🛠 Tecnologies that I have knnowledge:
