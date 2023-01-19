@@ -4,20 +4,33 @@
 <h3 align="justify">I'm Front End Developer 👨‍💻 based in Brazil.</h3>
 
 <br/>
-	
-<h3 align="justify">
-	I like to study and develop myself in technical and non-technical skills. And I have been developing since 2020, in 2022 I have completed the Rocketseat's Bootcamp, Ignite, with focus in ReactJS. I have intention to work in the international market remotly in the future.
+
+<h3>
+	I have more than 2 years of experience, I've worked with ReactJS, TypeScript, React Native, NextJS, Chakra-UI, Styled-Components, TailwindCSS, ReactQuery, Git, E2E Tests with Cypress, Firebase, GraphQL, HygraphCMS, ViteJS, API Consumption , Scrum, NodeJS, ExpressJS, AdonisJS.
 </h3>
+
+<br/>
+
+<h3>
+I've been updating myself every day through courses and documentation. I completed the specialization course in ReactJS by Rocketseat (Ignite).
+I am persistent and disciplined. I like to help and to learn. I have an intermediate level in English, being able to understand and communicate well.
+</h3>
+	
+<!-- <h3 align="justify">
+	I like to study and develop myself in technical and non-technical skills. And I have been developing since 2020, in 2022 I have completed the Rocketseat's Bootcamp, Ignite, with focus in ReactJS. I have intention to work in the international market remotly in the future.
+</h3> -->
 
 
 
 <br/>
 
-### 🛠 Tecnologies that I'm comfortable with:
+<!-- ### 🛠 Tecnologies that I'm comfortable with: -->
 <div align="justify">
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 	<img src="https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next-js&logoColor=61DAFB"/>
+<!-- 	<img src="https://img.shields.io/badge/NodeJS-5A45FF?style=for-the-badge&logo=nodejs&logoColor=white"/> -->
 	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,18 +41,18 @@
 	<img src="https://img.shields.io/badge/Hygraph-C21325?style=for-the-badge&logo=Hygraph&logoColor=white"/>
 	<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 	<img src="https://img.shields.io/badge/cypress-1f2937?style=for-the-badge&logo=Cypress&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 </div>
 
-### 🛠 Tecnologies that I have knnowledge:
+<!-- ### 🛠 Tecnologies that I have knnowledge:
 <div align="justify">
-	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 	<img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Linux-784DA5?style=for-the-badge&logo=Linux&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=Jest&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
 	
-</div>
+	
+</div> -->
 
 <br/>
 
