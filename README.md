@@ -31,24 +31,21 @@ I am persistent and disciplined. I like to help and to learn. I have an intermed
 
 
 <!-- Currículo -->
-### My resume
+<!-- ### My resume
 
-You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills.
+You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills. -->
 
 <!-- Status -->
 ## ⚡ GitHub statistics
-<div style="display: inline_block">
-<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&" alt="andresamaciel" />
-</div>
-
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&theme=defaut" />
-</div>
+</div> -->
 
-<div>
-	<a href="https://github.com/flvSantos15">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=7&theme=tokyonight"/>
+<div style="display:flex;gap:3rem">
+<!-- 	<a href="https://github.com/flvSantos15"> -->
+	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=7&theme=react"/>
+	<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" />
 </div>
 
 <!-- Tecnologias -->
