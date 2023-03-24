@@ -8,7 +8,7 @@
 </h1>
 
 <!-- Introdução -->
-<h3 align="justify">I'm Front End Developer 👨‍💻 based in Brazil.</h3>
+<h3 align="justify">A Front End Developer 👨‍💻 based in Brazil.</h3>
 
 <br/>
 
