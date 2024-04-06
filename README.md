@@ -44,7 +44,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <div style="display:flex;gap:3rem">
 <!-- 	<a href="https://github.com/flvSantos15"> -->
 	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=7&theme=react"/>
+	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=9&theme=react"/>
 <!-- 	<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" /> -->
 </div>
 
