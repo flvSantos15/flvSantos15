@@ -8,19 +8,20 @@
 </h1>
 
 <!-- Introdução -->
-<h3 align="justify">A Front End Developer 👨‍💻 based in Brazil.</h3>
+<h3 align="justify">A Fullstack Developer 👨‍💻 based in Brazil.</h3>
 
 <br/>
 
 <h3>
-	I have more than 2 years of experience, I've worked with ReactJS, TypeScript, React Native, NextJS, Chakra-UI, Styled-Components, TailwindCSS, ReactQuery, Git, E2E Tests with Cypress, Firebase, GraphQL, HygraphCMS, ViteJS, API Consumption , Scrum, NodeJS, ExpressJS, AdonisJS.
+	I have more than 3 years of experience, I've worked with ReactJS, TypeScript, React Native, NextJS, Chakra-UI, Styled-Components, TailwindCSS, ReactQuery, Git, Cypress, Firebase, GraphQL, HygraphCMS, ViteJS, API Consumption, Scrum, NodeJS, NestJS, Zustand, AWS.
 </h3>
 
 <br/>
 
 <h3>
 I've been updating myself every day through courses and documentation. I completed the specialization course in ReactJS by Rocketseat (Ignite).
-I am persistent and disciplined. I like to help and to learn. I have an intermediate level in English, being able to understand and communicate well.
+I am currently studying to become a Fullcycle Developer at Fullcycle, and finishing my graduation in ADS.
+I am persistent and disciplined. I like to help and to learn. I have an intermediate level of English, and I understand and communicate well.
 </h3>
 	
 <!-- <h3 align="justify">
@@ -44,8 +45,8 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <div style="display:flex;gap:3rem">
 <!-- 	<a href="https://github.com/flvSantos15"> -->
 	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=9&theme=react&hide=css"/>
-<!-- 	<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" /> -->
+	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=10&theme=react&hide=css"/>
+ 	<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" />
 </div>
 
 <!-- Tecnologias -->
@@ -68,7 +69,9 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 	<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 	<img src="https://img.shields.io/badge/cypress-1f2937?style=for-the-badge&logo=Cypress&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
-	<img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/NestJS-F1455F?style=for-the-badge&logo=nestjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Docker-00084d?style=for-the-badge&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
 </div>
 
 <!-- ### 🛠 Tecnologies that I have knnowledge:
