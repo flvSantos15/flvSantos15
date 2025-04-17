@@ -1,99 +1,103 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
-<!-- Header typing -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii!+👋;I'm+Flavio+Santos&center=true&size=25">
-  </a>
-</h1>
-
 <!-- Introdução -->
-<h3 align="justify">A Fullstack Developer 👨‍💻 based in Brazil.</h3>
+<h1 align="center">Hey there 👋, I'm a Fullstack Developer from Brazil 🇧🇷</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Backend-NestJS-red?style=flat-square&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native-darkblue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat-square&logo=git" />
+</p>
+
+---
+
+## 💼 About Me
+
+I'm a passionate **Fullstack Developer** with over **3 years of experience**, specializing in building efficient, scalable, and user-friendly applications — both web and mobile.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Frontend**  
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)   
+
+**Styling & UI**  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui)
+![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components)
+
+**Backend**  
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**State Management**  
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=Zustand)
+
+**Testing & DevOps**  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**CMS & Others**  
+![HygraphCMS](https://img.shields.io/badge/-Hygraph-2F80ED?style=flat&logo=hygraph)
+![ViteJS](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance)
+
+---
+
+## 📚 Currently Learning & Certifications
+
+- 🚀 Completed **ReactJS Specialization (Ignite)** at Rocketseat  
+- 🎯 Studying to become a **Fullcycle Developer** at Fullcycle  
+- 🎓 Finalizing my **Bachelor's Degree in Systems Analysis and Development (ADS)**  
+- 📖 Always learning through official documentation and courses
+
+---
+
+## 🌟 Soft Skills & Language
+
+- 🧠 Persistent & disciplined  
+- 🙌 Team player and always willing to help  
+- 🌐 Intermediate **English** (B1)  
+- 🔄 Always pushing to improve
+
+---
+
+## 📬 Let's Connect
+
+I'm open to opportunities, collaborations, and tech talk!  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/flvSantos15/) or drop me a message.
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 <br/>
-
-<h3>
-	I have more than 3 years of experience, I've worked with ReactJS, TypeScript, React Native, NextJS, Chakra-UI, Styled-Components, TailwindCSS, ReactQuery, Git, Cypress, Firebase, GraphQL, HygraphCMS, ViteJS, API Consumption, Scrum, NodeJS, NestJS, Zustand, AWS.
-</h3>
-
-<br/>
-
-<h3>
-I've been updating myself every day through courses and documentation. I completed the specialization course in ReactJS by Rocketseat (Ignite).
-I am currently studying to become a Fullcycle Developer at Fullcycle, and finishing my graduation in ADS.
-I am persistent and disciplined. I like to help and to learn. I have an intermediate level of English, and I understand and communicate well.
-</h3>
-	
-<!-- <h3 align="justify">
-	I like to study and develop myself in technical and non-technical skills. And I have been developing since 2020, in 2022 I have completed the Rocketseat's Bootcamp, Ignite, with focus in ReactJS. I have intention to work in the international market remotly in the future.
-</h3> -->
-
-<br/>
-
-
-<!-- Currículo -->
-<!-- ### My resume
-
-You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills. -->
 
 <!-- Status -->
-## ⚡ GitHub statistics
+<!-- ## ⚡ GitHub statistics -->
 <!-- <div style="display: inline_block"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&theme=defaut" />
 </div> -->
 
-<div style="display:flex;gap:3rem">
-<!-- 	<a href="https://github.com/flvSantos15"> -->
+<!--<div style="display:flex;gap:3rem">
+ 	<a href="https://github.com/flvSantos15">
 	<img height="190em" src="https://github-readme-stats.vercel.app/api?username=flvSantos15&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 	<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flvSantos15&layout=compact&langs_count=10&theme=react&hide=css"/>
- 	<!-- <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" /> -->
+ 	<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=flvSantos15&theme=react" alt="Flavio Santos" />
 </div>
-
-<!-- Tecnologias -->
-## :man_technologist: Software languages
-<!-- ### 🛠 Tecnologies that I'm comfortable with: -->
-<div align="justify">
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next-js&logoColor=61DAFB"/>
-	<img src="https://img.shields.io/badge/NodeJS-026e00?style=for-the-badge&logo=javascript&logoColor=white"/>
-	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-	<img src="https://img.shields.io/badge/chakra--ui-34c6bb?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
-	<img src="https://img.shields.io/badge/react--query-ff4154?style=for-the-badge&logo=react-query&logoColor=ffffff"/>
-	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
-<!-- 	<img src="https://img.shields.io/badge/Hygraph-C21325?style=for-the-badge&logo=Hygraph&logoColor=white"/> -->
-	<img src="https://img.shields.io/badge/tailwindcss-38bdf8?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-	<img src="https://img.shields.io/badge/cypress-1f2937?style=for-the-badge&logo=Cypress&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/>
-	<img src="https://img.shields.io/badge/NestJS-F1455F?style=for-the-badge&logo=nestjs&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Docker-00084d?style=for-the-badge&logo=docker&logoColor=white"/>
-	<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-</div>
-
-<!-- ### 🛠 Tecnologies that I have knnowledge:
-<div align="justify">
-	<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Linux-784DA5?style=for-the-badge&logo=Linux&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Jest-15c213?style=for-the-badge&logo=Jest&logoColor=white"/>
-	
-	
-</div> -->
-
-<br/>
-
-
-<div>
-	<h3> 📞 Get in touch:</h3>
-</div>
+-->
  
-<div> 
- 	<a href="https://instagram.com/flvSantos15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:contatoflvSantos300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 	<a href="https://www.linkedin.com/in/flvSantos15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
