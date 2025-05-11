@@ -16,7 +16,7 @@
 
 ## 💼 About Me
 
-I'm a passionate **Fullstack Developer** with over **3 years of experience**, specializing in building efficient, scalable, and user-friendly applications — both web and mobile.
+I'm a passionate **Fullstack Developer** with over **4 years of experience**, specializing in building efficient, scalable, and user-friendly applications — both web and mobile.
 
 ---
 
