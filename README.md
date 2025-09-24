@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
 <!-- Introdução -->
-<h1 align="center">Hey there 👋, I'm a Fullstack Developer from Brazil 🇧🇷</h1>
+<h1 align="center">Hey there 👋, I'm a Software Engineer based in Brazil 🇧🇷</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-ReactJS-blue?style=flat-square&logo=react" />
@@ -16,7 +16,7 @@
 
 ## 💼 About Me
 
-I'm a passionate **Fullstack Developer** with over **4 years of experience**, specializing in building efficient, scalable, and user-friendly applications — both web and mobile.
+I'm a passionate **Software Engineer** with over **4 years of experience**, specializing in building efficient, scalable, and user-friendly applications — both web and mobile.
 
 ---
 
@@ -26,12 +26,17 @@ I'm a passionate **Fullstack Developer** with over **4 years of experience**, sp
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)   
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-61DAFB?style=flat&logo=angular)
 
 **Styling & UI**  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material--UI-DB7093?style=flat&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-DB7093?style=flat&logo=bootstrap)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui)
 ![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn--UI-DB7093?style=flat&logo=shadcn-ui)
+![Radix UI](https://img.shields.io/badge/-Radix--UI-DB7093?style=flat&logo=radix-ui)
 
 **Backend**  
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js)
@@ -46,6 +51,8 @@ I'm a passionate **Fullstack Developer** with over **4 years of experience**, sp
 
 **Testing & DevOps**  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
+![React Testing Libray](https://img.shields.io/badge/-React--Testing--Library-17202C?style=flat&logo=react-testing-library)
+![Vitest](https://img.shields.io/badge/-Vitest-17202C?style=flat&logo=vitest)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -61,7 +68,8 @@ I'm a passionate **Fullstack Developer** with over **4 years of experience**, sp
 
 - 🚀 Completed **ReactJS Specialization (Ignite)** at Rocketseat  
 - 🎯 Studying to become a **Fullcycle Developer** at Fullcycle  
-- 🎓 Finalizing my **Bachelor's Degree in Systems Analysis and Development (ADS)**  
+- 🎓 Finalizing my **Bachelor's Degree in Software Engineering**
+- 🎓 Finalizing my **English course** to achieve fluency.
 - 📖 Always learning through official documentation and courses
 
 ---
@@ -70,7 +78,7 @@ I'm a passionate **Fullstack Developer** with over **4 years of experience**, sp
 
 - 🧠 Persistent & disciplined  
 - 🙌 Team player and always willing to help  
-- 🌐 Intermediate **English** (B1)  
+- 🌐 Intermediate **English** (B2)
 - 🔄 Always pushing to improve
 
 ---
