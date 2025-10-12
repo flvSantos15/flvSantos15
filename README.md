@@ -22,45 +22,39 @@ I'm a passionate **Software Engineer** with over **6 years of experience**, spec
 
 ## 🛠️ Tech Stack & Tools
 
-**Frontend**  
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-61DAFB?style=flat&logo=angular)
+**Frontend**
+- HTML
+- JavaScript, TypeScript
+- ReactJS, NextJS, React Native
+- Angular
+- Redux, Zustand
+- Tanstack Query
 
 **Styling & UI**  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material--UI-DB7093?style=flat&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-DB7093?style=flat&logo=bootstrap)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat&logo=chakra-ui)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn--UI-DB7093?style=flat&logo=shadcn-ui)
-![Radix UI](https://img.shields.io/badge/-Radix--UI-DB7093?style=flat&logo=radix-ui)
+- TailwindCSS
+- Material UI
+- Bootstrap
+- Chakra UI
+- Shadcn UI
+- Radix UI
+- Styled Components
+- Sass
+- CSS
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**State Management**  
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery)
-![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat&logo=Zustand)
+**Backend & Database**  
+- NodeJS, Express, NestJS, Fastify
+- GraphQL, HygraphCMS
+- Python, SQLAlchemy, Flask
+- Firebase
+- MySQL
+- PostgreSQL
 
 **Testing & DevOps**  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress)
-![React Testing Libray](https://img.shields.io/badge/-React--Testing--Library-17202C?style=flat&logo=react-testing-library)
-![Vitest](https://img.shields.io/badge/-Vitest-17202C?style=flat&logo=vitest)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**CMS & Others**  
-![HygraphCMS](https://img.shields.io/badge/-Hygraph-2F80ED?style=flat&logo=hygraph)
-![ViteJS](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance)
+- Cypress, React Testing Library, Vitest, Jest, Supertest, Pytest
+- Git
+- AWS, S3
+- Docker, Docker Compose
+- CI/CD
 
 ---
 
@@ -78,8 +72,8 @@ I'm a passionate **Software Engineer** with over **6 years of experience**, spec
 
 - 🧠 Persistent & disciplined  
 - 🙌 Team player and always willing to help  
-- 🌐 Intermediate **English** (B2)
-- 🔄 Always pushing to improve
+- 🌐 **English** (B2) and taking classes to get fluency.
+- 🔄 Always pushing to improve.
 
 ---
 
