@@ -23,56 +23,33 @@ I'm a passionate **Software Engineer** with over **6 years of experience**, spec
 ## 🛠️ Tech Stack & Tools
 
 **Frontend**
-- HTML
-- JavaScript, TypeScript
-- ReactJS, NextJS, React Native
+- HTML - JavaScript - TypeScript
+- ReactJS - NextJS - React Native
 - Angular
-- Redux, Zustand
-- Tanstack Query
-
-**Styling & UI**  
-- TailwindCSS
-- Material UI
-- Bootstrap
-- Chakra UI
-- Shadcn UI
-- Radix UI
-- Styled Components
-- Sass
-- CSS
+- Redux - Zustand - Tanstack Query  
+- TailwindCSS - Material UI - Bootstrap
+- Chakra UI - Shadcn UI - Radix UI
+- Styled Components - Sass - CSS
 
 **Backend & Database**  
-- NodeJS, Express, NestJS, Fastify
-- GraphQL, HygraphCMS
-- Python, SQLAlchemy, Flask
-- Firebase
-- MySQL
-- PostgreSQL
+- NodeJS - Express - NestJS - Fastify
+- GraphQL - HygraphCMS
+- Python - SQLAlchemy - Flask
+- Firebase - MySQL - PostgreSQL
 
 **Testing & DevOps**  
-- Cypress, React Testing Library, Vitest, Jest, Supertest, Pytest
+- Cypress - React Testing Library - Vitest - Jest - Supertest - Pytest
 - Git
-- AWS, S3
+- AWS - S3
 - Docker, Docker Compose
 - CI/CD
-
----
-
-## 📚 Currently Learning & Certifications
-
-- 🚀 Completed **ReactJS Specialization (Ignite)** at Rocketseat  
-- 🎯 Studying to become a **Fullcycle Developer** at Fullcycle  
-- 🎓 Finalizing my **Bachelor's Degree in Software Engineering**
-- 🎓 Finalizing my **English course** to achieve fluency.
-- 📖 Always learning through official documentation and courses
 
 ---
 
 ## 🌟 Soft Skills & Language
 
 - 🧠 Persistent & disciplined  
-- 🙌 Team player and always willing to help  
-- 🌐 **English** (B2) and taking classes to get fluency.
+- 🙌 Team player and always willing to help.
 - 🔄 Always pushing to improve.
 
 ---
