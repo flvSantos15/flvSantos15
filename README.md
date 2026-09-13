@@ -40,7 +40,7 @@ I'm a passionate **Software Engineer** with over **6 years of experience**, spec
 **Testing & DevOps**  
 - Cypress - React Testing Library - Vitest - Jest - Supertest - Pytest
 - Git
-- AWS - S3
+- AWS - Lambda - S3
 - Docker, Docker Compose
 - CI/CD
 
